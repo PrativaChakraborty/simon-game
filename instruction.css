@@ -1,0 +1,21 @@
+body{
+    background-color: #badbff;
+    text-align: center;
+}
+
+h1{
+    font-family:'Lobster Two', cursive; 
+    font-size: 100px;
+    color:#6930c3;
+    padding: 2%;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    padding: 2% 10%;
+    color:#11698e ;
+    line-height: 2.5;
+    font-family: 'Righteous', cursive;
+    
+}
